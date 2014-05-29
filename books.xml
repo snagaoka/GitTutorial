@@ -1,8 +1,53 @@
 <?xml version="1.0"?>
 <catalog>
   <book id="bk101">
-    <author>Gambardella, Matthew</author>
-    <title>XML Developer's Guide</title>
+      <genre>Computer</genre>
+      <price>44.95</price>
+   </book>
+   <book id="bk102">
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+   </book>
+   <book id="bk103">
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+   </book>
+   <book id="bk104">
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+   </book>
+   <book id="bk105">
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+   </book>
+   <book id="bk106">
+      <genre>Romance</genre>
+      <price>4.95</price>
+   </book>
+   <book id="bk107">
+      <genre>Romance</genre>
+      <price>4.95</price>
+   </book>
+   <book id="bk108">
+      <genre>Horror</genre>
+      <price>4.95</price>
+   </book>
+   <book id="bk109">
+      <genre>Science Fiction</genre>
+      <price>6.95</price>
+   </book>
+   <book id="bk110">
+      <genre>Computer</genre>
+      <price>36.95</price>rogrammer's reference.</description>
+   </book>
+   <book id="bk111">
+      </title>
+      <genre>Computer</genre>
+      <price>36.95</price>
+   </book>
+   <book id="bk112">
+      <genre>Computer</genre>
+      <price>49.95</price>
    </book>
    <book id="bk102">
       <author>Ralls, Kim</author>
