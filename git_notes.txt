@@ -38,3 +38,33 @@ git
   git tag
     - tags a version with a name git tag tag_name
     
+  git diff
+    - shows differences of all the files changed AND are not staged
+
+  git diff --cached
+    - shows differences of all changes that are staged
+
+  git checkout [branch name] 
+    - will switch current branch to [branch name]
+
+  git checkout -b [branch name]
+    - will switch current branch to new branch
+
+  git checkout DEADBEEF
+    - will switch current branch to some version
+
+  git checkout [file name]
+    - discards all changes in the file name, resetting to current version
+
+  git chekcout [version] [file name]
+    [version] can be SHA1 or branch or tag
+    - checks out version or file, and stages for commit
+
+  git checkout [version] .
+    WARNING destructive
+    - will remove all unstaged changes and checks out version
+
+  git log
+  git log --oneline
+  git log --graph
+  git log --stat
