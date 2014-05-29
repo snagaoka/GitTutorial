@@ -35,4 +35,6 @@ git
     git commit -am "message"
       - adds all with message
 
-
+  git tag
+    - tags a version with a name git tag tag_name
+    
